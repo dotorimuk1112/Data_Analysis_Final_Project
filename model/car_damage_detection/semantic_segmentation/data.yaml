@@ -1,0 +1,8 @@
+names:
+- Separated
+- Crushed
+- Scratched
+- Breakage
+nc: 4
+train: /content/train.txt
+val: /content/val.txt

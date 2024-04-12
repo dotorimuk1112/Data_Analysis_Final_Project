@@ -1,0 +1,4 @@
+names:
+- damage
+train: /content/train2.txt
+val: /content/val2.txt
